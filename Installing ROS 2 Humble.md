@@ -76,7 +76,7 @@ rosdep update
 rosdep install --from-paths src --ignore-src -y --skip-keys "fastcdr rti-connext-dds-6.0.1 urdfdom_headers"
 ```
 
-6. Build the code in the workspace
+6. Build the code in the workspace
 
 ```bash
 cd ~/ros2_humble/
