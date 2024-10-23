@@ -5,7 +5,7 @@ For most recent updates on installation commands please use [this link](https://
 
 Updated Command lines (October 23rd, 2024):
 
-1. Set locale
+1. Set locale
 
 ```bash
 locale  # check for UTF-8
