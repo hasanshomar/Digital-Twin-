@@ -22,3 +22,9 @@ If you need to uninstall Ignition or switch to a source-based install once you h
 ```bash
 sudo apt remove ignition-fortress && sudo apt autoremove
 ```
+
+
+Test command to check if Gazebo is installed properly: 
+```bash
+ign gazebo shapes.sdf
+```
